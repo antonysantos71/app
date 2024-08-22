@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "3645",
+      "name": "Buy groceries",
+      "description": "Purchase items for the week",
+      "completed": false
+    },
+    {
+      "name": "Clean the house",
+      "description": "Tidy up living areas and bedrooms",
+      "completed": true,
+      "id": "3646"
+    },
+    {
+      "id": "3647",
+      "name": "Finish project report",
+      "description": "Complete the final report for the project",
+      "completed": false
+    },
+    {
+      "id": "3648",
+      "name": "Call Mom",
+      "description": "Check in with Mom and catch up",
+      "completed": false
+    },
+    {
+      "id": "3649",
+      "name": "Plan weekend trip",
+      "description": "Research and book activities for the weekend getaway",
+      "completed": true
+    }
+  ]
+}
